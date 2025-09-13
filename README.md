@@ -1,4 +1,5 @@
-# datawarehousing-project
+# datawarehousing-project-sql
+A case study data warehousing project using SQL queries.
 
 # OfficeProducts Data Warehouse Project (Case Study)
 

@@ -72,6 +72,13 @@ Indexes and foreign key dependencies were created to optimize performance.
 This project demonstrates how a **snowflake schema** and OLAP techniques can be applied to analyze retail business data.  
 - The data warehouse design supports complex queries across multiple dimensions.  
 - SQL aggregation and OLAP queries provide valuable insights for sales, promotions, and channel strategies.  
-- Findings can guide management decisions, such as focusing on high-performing promotions and optimizing underperforming campaigns.  
+- Findings can guide management decisions, such as focusing on high-performing promotions and optimizing underperforming campaigns.
+
+---
+
+## Files 
+This project contains two `.sql` files:
+- `createDW.sql`: For Section A.
+- `queriesDW.sql`: For Section B.
 
 ---
